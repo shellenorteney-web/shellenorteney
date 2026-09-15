@@ -56,12 +56,12 @@ Living between technology, logic, and creativity, exploring the universe of AI a
 
 ---
 
-<!-- 
-### 🕹️ Joguinho / GitHub Snake (Para ativar, basta remover estas tags de comentário)
+
+ 🕹️ Joguinho / GitHub Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/shellenorteney/shellenorteney/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
--->
+
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shellenorteney.visitor-badge&left_text=visitors&left_color=%23698a9b&right_color=%23270674&radius=10" alt="visitors">
