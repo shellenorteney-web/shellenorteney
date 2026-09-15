@@ -1,25 +1,67 @@
-- 👀 I'm interested in making a difference
-- 🌱 I'm currently learning IA and python
-- 💞️ I'm looking to collaborate with those who believe in my potential
-- 📫 How to reach me via email shellenorteney@gmail.com
+<p align="right">
+  <a href="#-português">🇧🇷 PT</a> | <a href="#-english">🇺🇸 EN</a>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shellenorteney&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shellenorteney&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
+<div id="-português"></div>
 
-<p align="center">
+## 🇧🇷 Português
+
+### 💬 Hey, eu sou a Shellen
+Vivendo entre tecnologia, lógica e criatividade, explorando o universo de IA e programação, e sempre em busca de aprender e construir coisas novas.
+
+### 🛠️ Minhas Habilidades & Hobbies
+* 🎸 Curte tocar instrumentos e música
+* 🐍 Explorando Python e Inteligência Artificial
+* 💡 Curiosidade nata para entender como as coisas funcionam
+* 🌿 Cuidados com plantas e jardinagem em casa
+
+### 📬 Conecte-se comigo
+<p align="left">
   <a href="mailto:shellenorteney@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmai&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://linkedin.com/in/">
+  <a href="https://linkedin.com/in/SEU-LINK-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
 
 <br>
+
+---
+
+<div id="-english"></div>
+
+## 🇺🇸 English
+
+### 💬 Hey, I'm Shellen
+Living between technology, logic, and creativity, exploring the universe of AI and programming, always eager to learn and build new things.
+
+### 🛠️ Skills & Hobbies
+* 🎸 Enjoy playing musical instruments
+* 🐍 Exploring Python and Artificial Intelligence
+* 💡 Natural curiosity to understand how things work
+* 🌿 Houseplants and indoor gardening
+
+### 📬 Get in touch
+<p align="left">
+  <a href="mailto:shellenorteney@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/SEU-LINK-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+---
+
+<!-- 
+### 🕹️ Joguinho / GitHub Snake (Para ativar, basta remover estas tags de comentário)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shellenorteney/shellenorteney/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+-->
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shellenorteney.visitor-badge&left_text=visitors&left_color=%23698a9b&right_color=%23270674&radius=10" alt="visitors">
